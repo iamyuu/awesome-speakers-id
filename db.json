@@ -1,0 +1,903 @@
+{
+  "australia": [
+    {
+      "image": "http://ielab.io/images/rischan.jpeg",
+      "name": "Rischan Mafrur",
+      "topics": [
+        "Python for Data Science",
+        "Machine Learning/AI",
+        "Data Exploration"
+      ],
+      "jabatan": "PhD student @ Data Science Group, The University of Queensland, Australia",
+      "domisili": "Brisbane, Australia",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung pihak perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/PyDataScienceID",
+        "website": "https://pydatascience.org"
+      }
+    }
+  ],
+  "bali": [
+    {
+      "name": "Satya Kresna",
+      "topics": [
+        "Web Development",
+        "JavaScript",
+        "PHP"
+      ],
+      "domisili": "Bali",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung pihak perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/_satyakresna"
+      }
+    }
+  ],
+  "bandung": [
+    {
+      "name": "Anshorimuslim Syuhada",
+      "topics": [
+        "IoT",
+        "NodeJS",
+        "React",
+        "Python",
+        "Data Engineering"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Ditanggung penyelenggara atau sendiri (khusus Bandung)",
+      "links": {
+        "twitter": "https://twitter.com/ans4175"
+      }
+    },
+    {
+      "name": "Djiwandou Putro",
+      "topics": [
+        "IoT",
+        "Laravel",
+        "VueJS",
+        "CI/CD",
+        "Education",
+        "System Engineering",
+        "Engineering Mgmt"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/djiwandou"
+      }
+    },
+    {
+      "name": "Fariz Rizaldy",
+      "topics": [
+        "Web Development",
+        "JavaScript",
+        "Node.js",
+        "DevOps"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau pengundang",
+      "links": {
+        "twitter": "https://twitter.com/faultable"
+      }
+    },
+    {
+      "name": "Galih Pratama",
+      "topics": [
+        "Vue",
+        "Laravel",
+        "Nuxt",
+        "JavaScript",
+        "PHP"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/galpratama"
+      }
+    },
+    {
+      "name": "Gilang Ramadhan",
+      "topics": [
+        "Android",
+        "Java",
+        "Kotlin",
+        "Arcitecture Pattern",
+        "Android Jetpack"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau sendiri",
+      "links": {
+        "instagram": "https://www.instagram.com/gilang_adhan/"
+      }
+    },
+    {
+      "name": "Raihan Nismara",
+      "topics": [
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "Firebase",
+        "CI/CD",
+        "PHP, Education"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/Rayhan_nj"
+      }
+    },
+    {
+      "name": "Randy Vianda Putra",
+      "topics": [
+        "Frontend",
+        "PWA",
+        "React",
+        "JavaScript",
+        "Flutter",
+        "Go",
+        "PHP",
+        "Laravel"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Tidak ditanggung pihak manapun",
+      "links": {
+        "twitter": "https://twitter.com/aweutist"
+      }
+    },
+    {
+      "name": "Yahya F. Al Fatih",
+      "topics": [
+        "Hacking/Security",
+        "Python",
+        "Django/Flask",
+        "GOlang",
+        "Docker",
+        "CI/CD+Gitlab",
+        "DevOps",
+        "Laravel"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau sendiri",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/"
+      }
+    },
+    {
+      "name": "Hadian Rahmat",
+      "topics": [
+        "AdonisJS",
+        "NodeJS",
+        "Laravel",
+        "Docker,"
+      ],
+      "domisili": "Bandung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau sendiri",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/hadianr/"
+      }
+    }
+  ],
+  "batam": [
+    {
+      "name": "DARVIN SINAGA",
+      "topics": [
+        "JavaScript",
+        "Typecript",
+        "Node.js",
+        "React Native",
+        "Flutter",
+        "Ruby",
+        "Community,"
+      ],
+      "domisili": "Batam",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung pihak manapun",
+      "links": {}
+    }
+  ],
+  "gresik": [
+    {
+      "name": "Yudhi Satrio",
+      "topics": [
+        "HTML",
+        "CSS",
+        "Typescript",
+        "Vuejs",
+        "A11Y",
+        "Project Management"
+      ],
+      "domisili": "Gresik",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/isatrio"
+      }
+    }
+  ],
+  "jakarta": [
+    {
+      "name": "Abdul Fattah Ikhsan",
+      "topics": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "React Native",
+        "Flutter",
+        "Ruby",
+        "Community,"
+      ],
+      "domisili": "Bekasi, Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/abdfattahikhsan"
+      }
+    },
+    {
+      "name": "Adrianti Rusli",
+      "topics": [
+        "JavaScript",
+        "PHP",
+        "Web Development",
+        "WordPress",
+        "Skill Gap in Industry",
+        "Gender Diversity in Tech Industry"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung pihak perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/adriantirusli"
+      }
+    },
+    {
+      "name": "Ady Rahmat MA",
+      "topics": [
+        "Python",
+        "Go"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/ngurajeka"
+      }
+    },
+    {
+      "name": "Adib Firman",
+      "topics": [
+        "JavaScript",
+        "NodeJS",
+        "React",
+        "Web Development",
+        "PWA"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/dibfirman"
+      }
+    },
+    {
+      "name": "Adityo Pratomo",
+      "topics": [
+        "Product Design",
+        "UI/UX",
+        "Web Frontend",
+        "Rust"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/kotakmakan"
+      }
+    },
+    {
+      "name": "Angga Risky",
+      "topics": [
+        "Web/Mobile Development",
+        "Product Design",
+        "UI/UX"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "linkedin": "https://id.linkedin.com/in/angga-risky-58a981111"
+      }
+    },
+    {
+      "name": "Antony Budianto",
+      "topics": [
+        "Web Development",
+        "Open-source",
+        "JavaScript Tooling"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/antonybudianto"
+      }
+    },
+    {
+      "name": "Diky Arga Anggara",
+      "topics": [
+        "Frontend",
+        "WebVR",
+        "Micro Frontend",
+        "Vue.js",
+        "Design System component",
+        "PWA"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau pengundang",
+      "links": {
+        "twitter": "https://twitter.com/dikyarga"
+      }
+    },
+    {
+      "name": "Gazandi Cahyadarma",
+      "topics": [
+        "Go",
+        "Ruby",
+        "Microservices",
+        "Kubernetes",
+        "Docker"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau pengundang",
+      "links": {
+        "instagram": "https://www.instagram.com/gazandic"
+      }
+    },
+    {
+      "name": "Giri Kuncoro",
+      "topics": [
+        "Cloud Native",
+        "Kubernetes",
+        "Docker",
+        "Distributed System",
+        "Devops"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung GDE",
+      "links": {
+        "twitter": "https://twitter.com/girikuncoro"
+      }
+    },
+    {
+      "name": "Hepiska Franatagola",
+      "topics": [
+        "Frontend",
+        "PWA",
+        "react",
+        "react-native",
+        "nodejs",
+        "graphql",
+        "atomic design pattern",
+        "image processing",
+        "machine learning",
+        "python"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/hepiska1"
+      }
+    },
+    {
+      "name": "Imam Aris Munandar",
+      "topics": [
+        "Data Engineer",
+        "Data Scientist",
+        "UX Researcher",
+        "Design Sprint",
+        "JavaScript"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/imamaris"
+      }
+    },
+    {
+      "name": "Imre Nagi",
+      "topics": [
+        "Docker",
+        "Kubernetes",
+        "Beam",
+        "Big Data",
+        "Kafka",
+        "Microservices",
+        "Golang"
+      ],
+      "domisili": "Jakartae",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung GDE",
+      "links": {
+        "twitter": "https://twitter.com/imrenagi"
+      }
+    },
+    {
+      "name": "Irfan Maulana",
+      "topics": [
+        "JavaScript",
+        "Vue.js",
+        "React",
+        "Node.js",
+        "Web",
+        "Community"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan jika perusahaan jadi sponsor",
+      "links": {
+        "github": "https://github.com/mazipan"
+      }
+    },
+    {
+      "name": "Ivan Kristianto",
+      "topics": [
+        "Web",
+        "WordPress",
+        "AMP",
+        "PWA",
+        "Service Worker",
+        "Docker",
+        "React"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung GDE",
+      "links": {
+        "twitter": "https://twitter.com/ivankrisdotcom"
+      }
+    },
+    {
+      "name": "Jacky Efendi",
+      "topics": [
+        "JavaScript",
+        "NodeJS",
+        "React",
+        "Web Development",
+        "PWA"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/jacky_efendi"
+      }
+    },
+    {
+      "name": "Jefry Dewangga",
+      "topics": [
+        "JavaScript",
+        "Vue.js",
+        "Node.js",
+        "Web",
+        "Community"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/jefrydco"
+      }
+    },
+    {
+      "name": "Naufal Ziyad Luthfiansyah",
+      "topics": [
+        "Backend",
+        "Go",
+        "Docker",
+        "PHP",
+        "ecommerce experience"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Tidak ditanggung pihak manapun",
+      "links": {
+        "twitter": "https://twitter.com/naufalfian"
+      }
+    },
+    {
+      "name": "Onesinus Saut Parulian",
+      "topics": [
+        "Web Development",
+        "Web Programming",
+        "Database",
+        "JavaScript",
+        "PHP",
+        "PHP Framework"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": false,
+      "links": {
+        "twitter": "https://twitter.com/OnesinusSPT"
+      }
+    },
+    {
+      "name": "Rendy B. Junior",
+      "topics": [
+        "Big Data, BigQuery, Spark, Beam / DataFlow, Airflow, Kafka, BigTable, Data Warehouse"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "links": {
+        "twitter": "https://twitter.com/rendybjunior"
+      }
+    },
+    {
+      "name": "Resi Respati",
+      "topics": [
+        "Nodejs",
+        "JavaScript",
+        "TypeScript",
+        "Web Development",
+        "Web Programming"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": false,
+      "links": {
+        "twitter": "https://twitter.com/resir014"
+      }
+    },
+    {
+      "name": "Riza Fahmi",
+      "topics": [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "ReasonML",
+        "Elixir",
+        "PWA",
+        "Web",
+        "Community,"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau GDE",
+      "links": {
+        "twitter": "https://twitter.com/rizafahmi22"
+      }
+    },
+    {
+      "name": "Rizal Asrul Pambudi",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "PWA",
+        "Web",
+        "Community,"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": false,
+      "links": {
+        "twitter": "https://twitter.com/asrulole"
+      }
+    },
+    {
+      "name": "Sidiq Permana",
+      "topics": [
+        "Android",
+        "Java",
+        "Kotlin",
+        "Design Pattern",
+        "Machine Learning",
+        "Community,"
+      ],
+      "domisili": "Tangerang, Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau GDE",
+      "links": {
+        "twitter": "https://twitter.com/nouvrizky10"
+      }
+    },
+    {
+      "name": "Teno Siswono",
+      "topics": [
+        "Frontend",
+        "VueJS",
+        "React",
+        "NodeJS",
+        "Firebase"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/tenosiswono"
+      }
+    },
+    {
+      "name": "Yohan Totting",
+      "topics": [
+        "JavaScript",
+        "Web",
+        "Community"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau GDE",
+      "links": {
+        "twitter": "https://twitter.com/tyohan"
+      }
+    }
+  ],
+  "jepang": [
+    {
+      "name": "Muhammad Angga Muttaqien",
+      "topics": [
+        "Artificial Intelligence, Deep Learning, Robotics, Data Science, Python"
+      ],
+      "domisili": "Tokyo, Jepang",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang",
+      "links": {
+        "twitter": "https://twitter.com/muhamuttaqien"
+      }
+    }
+  ],
+  "lampung": [
+    {
+      "name": "Muhamad Danil Rafiqi",
+      "topics": [
+        "JavaScript, TypeScript, Node.js, React.js, React Native, PHP, Laravel, CodeIgniter"
+      ],
+      "domisili": "Lampung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "TIDAK ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/rafiqidanil"
+      }
+    },
+    {
+      "name": "Elfin Sanjaya",
+      "topics": [
+        "JavaScript, Node.js, React.js, React Native, PHP, CodeIgniter"
+      ],
+      "domisili": "Lampung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/elfinsanjaya2"
+      }
+    },
+    {
+      "name": "Muhammad Fari Madyan",
+      "topics": [
+        "JavaScript, PHP, Laravel, Lumen, Node.js"
+      ],
+      "domisili": "Lampung",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/FariMsenju"
+      }
+    }
+  ],
+  "malang": [
+    {
+      "name": "Andi N. Dirgantara",
+      "topics": [
+        "Hadoop",
+        "Spark",
+        "Google Cloud",
+        "Scala",
+        "JavaScript",
+        "Go",
+        "Python",
+        "Docker",
+        "Kubernetes"
+      ],
+      "domisili": "Malang",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/andi_dirgantara"
+      }
+    },
+    {
+      "name": "Moch Lutfi",
+      "topics": [
+        "Golang",
+        "Developer Experience"
+      ],
+      "domisili": "Malang",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/kaptenupi"
+      }
+    }
+  ],
+  "medan": [
+    {
+      "name": "Agus Mistiawan",
+      "topics": [
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "Microservices Architecture"
+      ],
+      "domisili": "Medan",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": false,
+      "links": {
+        "twitter": "https://twitter.com/agusmistiawan_"
+      }
+    }
+  ],
+  "palembang": [
+    {
+      "name": "Arief Rahmansyah",
+      "topics": [
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "Machine Learning Platform"
+      ],
+      "domisili": "Singapore",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang, perusahaan atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/ariefr23"
+      }
+    },
+    {
+      "name": "Faisal Morensya",
+      "topics": [
+        "Java",
+        "Reactive Programming",
+        "Spring Reactor",
+        "Docker"
+      ],
+      "domisili": "Jakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/morensya"
+      }
+    }
+  ],
+  "semarang": [
+    {
+      "name": "Rizma Abdullah Hanif",
+      "topics": [
+        "Android Kotlin",
+        "Community",
+        "Education"
+      ],
+      "domisili": "Semarang",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggun pribadi jika di daerah domisili",
+      "links": {
+        "github": "https://github.com/hanifabdullah21"
+      }
+    }
+  ],
+  "sidoarjo": [
+    {
+      "name": "Naufal Rabbani",
+      "topics": [
+        "Vue",
+        "React",
+        "JavaScript"
+      ],
+      "domisili": "Sidoarjo",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pribadi jika di daerah domisili",
+      "links": {
+        "twitter": "https://twitter.com/BosNaufal"
+      }
+    }
+  ],
+  "singapura": [
+    {
+      "name": "Sonny Lazuardi",
+      "topics": [
+        "Web/Mobile Development (JavaScript",
+        "React)",
+        "Product Design"
+      ],
+      "domisili": "Singapura",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung sendiri",
+      "links": {
+        "twitter": "https://twitter.com/n"
+      }
+    },
+    {
+      "name": "Zain Fathoni",
+      "topics": [
+        "JavaScript",
+        "React",
+        "Testing",
+        "Community"
+      ],
+      "domisili": "Singapura",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": false,
+      "links": {
+        "twitter": "https://twitter.com/zainfathoni"
+      }
+    }
+  ],
+  "yogyakarta": [
+    {
+      "name": "Evan Purnama",
+      "topics": [
+        "Backend Related",
+        "Chat Technology",
+        "Realtime Technology",
+        "Product Development",
+        "Startup Related"
+      ],
+      "domisili": "Yogyakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau perusahaan",
+      "links": {
+        "facebook": "https://twitter.com/evanpurnama"
+      }
+    },
+    {
+      "name": "Mirza Chilman",
+      "topics": [
+        "JavaScript",
+        "Python",
+        "Docker",
+        "CI/CD",
+        "Community",
+        "Education"
+      ],
+      "domisili": "Yogyakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung perusahaan",
+      "links": {
+        "twitter": "https://twitter.com/MirzaChilman"
+      }
+    },
+    {
+      "name": "Mulia Arifandi Nasution",
+      "topics": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Vue.js",
+        "Laravel",
+        ".Net Core",
+        "Programmer's Productivity"
+      ],
+      "domisili": "Yogyakarta",
+      "bersedia_diundang_keluar_daerah_domisili": true,
+      "akomodasi": "Dapat ditanggung pengundang atau sendiri",
+      "links": {
+        "twitter": "https://twitter.com/mul14"
+      }
+    }
+  ]
+}
