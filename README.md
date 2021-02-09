@@ -10,7 +10,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ## Contents
 
-- [Australia](#Australia)
+- [Australia](#australia)
 - [Bali](#bali)
 - [Bandung](#bandung)
 - [Batam](#batam)
@@ -28,7 +28,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Australia
 
-<img src="http://ielab.io/images/rischan.jpeg" width="168px" align="left" alt="speaker photo profile" />
+<img src="http://ielab.io/images/rischan.jpeg" width="168px" align="right" alt="speaker photo profile" />
 
 **Rischan Mafrur**
 
@@ -42,7 +42,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Bali
 
-<img src="https://twitter.com/_satyakresna/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/_satyakresna/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Satya Kresna**
 
@@ -55,7 +55,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Bandung
 
-<img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Anshorimuslim Syuhada**
 
@@ -66,7 +66,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Ditanggung penyelenggara atau sendiri (khusus Bandung)
 - https://twitter.com/ans4175
 
-<img src="https://avatars.io/twitter/djiwandou?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars.io/twitter/djiwandou?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Djiwandou Putro**
 
@@ -77,7 +77,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://twitter.com/djiwandou
 
-<img src="https://avatars1.githubusercontent.com/u/6561394?v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars1.githubusercontent.com/u/6561394?v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Fariz Rizaldy**
 
@@ -88,7 +88,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau pengundang
 - https://twitter.com/faultable
 
-<img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Galih Pratama**
 
@@ -99,7 +99,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau sendiri
 - https://twitter.com/galpratama
 
-<img src="https://media.licdn.com/dms/image/C5103AQEfNtB274MswA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=l2Mz1y-p4UQMg0BkztzUpb4cA-VafoHTQ0WX5Pk5_CA" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://media.licdn.com/dms/image/C5103AQEfNtB274MswA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=l2Mz1y-p4UQMg0BkztzUpb4cA-VafoHTQ0WX5Pk5_CA" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Gilang Ramadhan**
 
@@ -110,7 +110,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau sendiri
 - https://www.instagram.com/gilang_adhan/
 
-<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Raihan Nismara**
 
@@ -121,7 +121,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau sendiri
 - https://twitter.com/Rayhan_nj
 
-<img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Randy Vianda Putra**
 
@@ -132,7 +132,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Tidak ditanggung pihak manapun
 - https://twitter.com/aweutist
 
-<img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Yahya F. Al Fatih**
 
@@ -145,7 +145,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 **Hadian Rahmat**
 
-<img src="https://media-exp1.licdn.com/dms/image/C5103AQF_Wdns59m9Lg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=oUlq2Y4DVKKv7hFUrSEsFvdmjYrAi9WNx-Ma_4xQV5E" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://media-exp1.licdn.com/dms/image/C5103AQF_Wdns59m9Lg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=oUlq2Y4DVKKv7hFUrSEsFvdmjYrAi9WNx-Ma_4xQV5E" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 - Topics: AdonisJS, NodeJS, Laravel, Docker,
 - Jabatan: Backend Engineer at GITS Indonesia
@@ -156,7 +156,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Batam
 
-<img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **DARVIN SINAGA**
 
@@ -168,7 +168,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Gresik
 
-<img src="https://avatars3.githubusercontent.com/u/1897570?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/1897570?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Yudhi Satrio**
 
@@ -181,7 +181,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Jakarta
 
-<img src="https://avatars2.githubusercontent.com/u/5897415?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars2.githubusercontent.com/u/5897415?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Abdul Fattah Ikhsan**
 
@@ -192,7 +192,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://twitter.com/abdfattahikhsan
 
-<img src="https://user-images.githubusercontent.com/20434351/70529504-4b869b80-1b83-11ea-8dcc-feeba59f16bc.jpg" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://user-images.githubusercontent.com/20434351/70529504-4b869b80-1b83-11ea-8dcc-feeba59f16bc.jpg" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Adrianti Rusli**
 
@@ -203,7 +203,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: TIDAK ditanggung pihak perusahaan
 - https://twitter.com/adriantirusli
 
-<img src="https://avatars3.githubusercontent.com/u/3364191?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/3364191?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Ady Rahmat MA**
 
@@ -214,7 +214,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau sendiri
 - https://twitter.com/ngurajeka
 
-<img src="https://avatars1.githubusercontent.com/u/24794196?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars1.githubusercontent.com/u/24794196?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Adib Firman**
 
@@ -225,7 +225,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://twitter.com/dibfirman
 
-<img src="https://media.licdn.com/dms/image/C5103AQFLLRVkUwk9Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=BSkJx_QqkuBaA9zTn3cjk0LCZ9HkEtCYyZaU9HwA5F0" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://media.licdn.com/dms/image/C5103AQFLLRVkUwk9Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=BSkJx_QqkuBaA9zTn3cjk0LCZ9HkEtCYyZaU9HwA5F0" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Adityo Pratomo**
 
@@ -236,7 +236,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://twitter.com/kotakmakan
 
-<img src="https://media.licdn.com/dms/image/C5103AQGbGpzOJasXeQ/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=8CIhAvu1d15xLaTlrINcobiUyyHVFwL-VwYMlsV2n6M" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://media.licdn.com/dms/image/C5103AQGbGpzOJasXeQ/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=8CIhAvu1d15xLaTlrINcobiUyyHVFwL-VwYMlsV2n6M" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Angga Risky**
 
@@ -247,7 +247,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://id.linkedin.com/in/angga-risky-58a981111
 
-<img src="https://avatars3.githubusercontent.com/u/7658554?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/7658554?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Antony Budianto**
 
@@ -258,7 +258,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://www.linkedin.com/in/antonybudianto
 
-<img src="https://pbs.twimg.com/profile_images/1079843240050708480/ImJ8mDY5_400x400.jpg" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://pbs.twimg.com/profile_images/1079843240050708480/ImJ8mDY5_400x400.jpg" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Diky Arga Anggara**
 
@@ -269,7 +269,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau pengundang
 - https://twitter.com/dikyarga
 
-<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/c62a797230c1342facc9ad58b111224e/5E2F1571/t51.2885-19/s320x320/64823870_342352313104670_1909097776067641344_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/c62a797230c1342facc9ad58b111224e/5E2F1571/t51.2885-19/s320x320/64823870_342352313104670_1909097776067641344_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Gazandi Cahyadarma**
 
@@ -280,7 +280,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau pengundang
 - https://www.instagram.com/gazandic/
 
-<img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Giri Kuncoro**
 
@@ -291,7 +291,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung GDE
 - https://twitter.com/girikuncoro
 
-<img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Hepiska Franatagola**
 
@@ -302,7 +302,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: TIDAK ditanggung perusahaan
 - https://twitter.com/hepiska1
 
-<img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Imam Aris Munandar**
 
@@ -313,7 +313,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - http://twitter.com/imamaris
 
-<img src="https://twitter.com/imrenagi/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/imrenagi/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Imre Nagi**
 
@@ -324,7 +324,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung GDE
 - https://twitter.com/imrenagi
 
-<img src="https://avatars2.githubusercontent.com/u/7221389?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars2.githubusercontent.com/u/7221389?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Irfan Maulana**
 
@@ -335,7 +335,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan jika perusahaan jadi sponsor
 - https://github.com/mazipan
 
-<img src="https://twitter.com/ivankrisdotcom/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/ivankrisdotcom/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Ivan Kristianto**
 
@@ -346,7 +346,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung GDE
 - https://twitter.com/ivankrisdotcom
 
-<img src="https://avatars3.githubusercontent.com/u/7252454?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/7252454?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Jacky Efendi**
 
@@ -357,7 +357,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://twitter.com/jacky_efendi
 
-<img src="https://user-images.githubusercontent.com/20434351/70531146-ee8ce480-1b86-11ea-9f25-ca2f2bfe9bdc.jpg" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://user-images.githubusercontent.com/20434351/70531146-ee8ce480-1b86-11ea-9f25-ca2f2bfe9bdc.jpg" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Jefry Dewangga**
 
@@ -368,7 +368,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau sendiri
 - https://twitter.com/jefrydco
 
-<img src="https://avatars1.githubusercontent.com/u/36786520?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars1.githubusercontent.com/u/36786520?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Naufal Ziyad Luthfiansyah**
 
@@ -379,7 +379,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Tidak ditanggung pihak manapun
 - https://twitter.com/naufalfian
 
-<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Onesinus Saut Parulian**
 
@@ -390,7 +390,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: ❌
 - https://twitter.com/OnesinusSPT
 
-<img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Rendy B. Junior**
 
@@ -402,7 +402,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 - https://twitter.com/rendybjunior
 
-<img src="https://github.com/resir014.png" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://github.com/resir014.png" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Resi Respati**
 
@@ -413,7 +413,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: ❌
 - https://twitter.com/resir014
 
-<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Riza Fahmi**
 
@@ -424,7 +424,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau GDE
 - https://twitter.com/rizafahmi22
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQFpF42VjuvuPQ/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=K7oXE0hZG27eebmU6bXF2fgJOpkgykh1xIpUyyN2YpA" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFpF42VjuvuPQ/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=K7oXE0hZG27eebmU6bXF2fgJOpkgykh1xIpUyyN2YpA" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Rizal Asrul Pambudi**
 
@@ -435,7 +435,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: ❌
 - https://twitter.com/asrulole
 
-<img src="https://twitter.com/nouvrizky10/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/nouvrizky10/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Sidiq Permana**
 
@@ -446,7 +446,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan atau GDE
 - https://twitter.com/nouvrizky10
 
-<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/b262be425d1cd1221c32d9ecd8596c0c/5E2F999F/t51.2885-19/s320x320/67180935_440655763205096_3974301202274844672_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/b262be425d1cd1221c32d9ecd8596c0c/5E2F999F/t51.2885-19/s320x320/67180935_440655763205096_3974301202274844672_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Teno Siswono**
 
@@ -457,7 +457,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://github.com/tenosiswono
 
-<img src="https://pbs.twimg.com/profile_images/927468387407511553/3JvCuCzK_400x400.jpg" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://pbs.twimg.com/profile_images/927468387407511553/3JvCuCzK_400x400.jpg" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Yohan Totting**
 
@@ -470,7 +470,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Jepang
 
-<img src="https://avatars2.githubusercontent.com/u/10794735?s=400&u=fa1b4f0c1330b306af21096036519b697e33ded7&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars2.githubusercontent.com/u/10794735?s=400&u=fa1b4f0c1330b306af21096036519b697e33ded7&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Muhammad Angga Muttaqien**
 
@@ -483,7 +483,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Lampung
 
-<img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Muhamad Danil Rafiqi**
 
@@ -494,7 +494,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: TIDAK ditanggung perusahaan
 - https://twitter.com/rafiqidanil
 
-<img src="https://twitter.com/elfinsanjaya2/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/elfinsanjaya2/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Elfin Sanjaya**
 
@@ -505,7 +505,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://twitter.com/elfinsanjaya2
 
-<img src="https://twitter.com/FariMsenju/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/FariMsenju/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Muhammad Fari Madyan**
 
@@ -518,7 +518,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Malang
 
-<img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Andi N. Dirgantara**
 
@@ -529,7 +529,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://twitter.com/andi_dirgantara
 
-<img src="https://twitter.com/kaptenupi/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/kaptenupi/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Moch Lutfi**
 
@@ -542,7 +542,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Medan
 
-<img src="https://twitter.com/agusmistiawan_/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/agusmistiawan_/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Agus Mistiawan**
 
@@ -555,7 +555,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Palembang
 
-<img src="https://twitter.com/ariefr23/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/ariefr23/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Arief Rahmansyah**
 
@@ -566,7 +566,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang, perusahaan atau sendiri
 - https://twitter.com/ariefr23
 
-<img src="https://twitter.com/morensya/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/morensya/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Faisal Morensya**
 
@@ -579,7 +579,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Semarang
 
-<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Rizma Abdullah Hanif**
 
@@ -592,7 +592,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Sidoarjo
 
-<img src="https://avatars0.githubusercontent.com/u/12091318?s=460&v=4" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://avatars0.githubusercontent.com/u/12091318?s=460&v=4" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Naufal Rabbani**
 
@@ -605,7 +605,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Singapura
 
-<img src="https://pbs.twimg.com/profile_images/1192652516262989825/rzHUUdm0_400x400.jpg" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://pbs.twimg.com/profile_images/1192652516262989825/rzHUUdm0_400x400.jpg" width="168px" align="right" alt="speaker photo profile" />
 
 **Sonny Lazuardi**
 
@@ -616,7 +616,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung sendiri
 - https://twitter.com/sonnylazuardi
 
-<img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="right" alt="speaker photo profile" />
 
 **Zain Fathoni**
 
@@ -629,7 +629,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 
 ### Yogyakarta
 
-<img src="https://twitter.com/evanpurnama/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/evanpurnama/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Evan Purnama**
 
@@ -640,7 +640,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung pengundang atau perusahaan
 - https://www.facebook.com/evanpurnama
 
-<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Mirza Chilman**
 
@@ -651,7 +651,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - Akomodasi: Dapat ditanggung perusahaan
 - https://twitter.com/MirzaChilman
 
-<img src="https://twitter.com/mul14/profile_image?size=original" height="168px" width="168px" align="left" alt="speaker photo profile" />
+<img src="https://twitter.com/mul14/profile_image?size=original" height="168px" width="168px" align="right" alt="speaker photo profile" />
 
 **Mulia Arifandi Nasution**
 
